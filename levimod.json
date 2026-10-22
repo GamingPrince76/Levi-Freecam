@@ -1,0 +1,24 @@
+
+{
+  "schema_version": 1,
+  "id": "levifreecam",
+  "version": "1.0",
+  "minecraft_versions": [
+    "1.26.5*"
+  ],
+  "published_at": "2026-10-22T00:00:00Z",
+  "info": {
+    "name": "Levi Freecam",
+    "author": "GamingPrince76",
+    "description": "A standalone native Freecam mod for Minecraft Bedrock on Android, designed for LeviLauncher and LeviLaunchroid.",
+    "homepage_url": "https://github.com/GamingPrince76/Levi-Freecam",
+    "tags": [
+      "Utility",
+      "Gameplay"
+    ]
+  },
+  "download": {
+    "type": "direct",
+    "url": "https://github.com/GamingPrince76/Levi-Freecam/releases/download/v1.0/Levi-Freecam-v1.0.levipack"
+  }
+}

@@ -12,6 +12,7 @@
     "author": "GamingPrince76",
     "description": "A standalone native Freecam mod for Minecraft Bedrock on Android, designed for LeviLauncher and LeviLaunchroid.",
     "homepage_url": "https://github.com/GamingPrince76/Levi-Freecam",
+    "icon": "icon.png",
     "tags": [
       "Utility",
       "Gameplay"

@@ -2,9 +2,9 @@
 {
   "schema_version": 1,
   "id": "levifreecam",
-  "version": "1.0",
+  "version": "2.0",
   "minecraft_versions": [
-    "1.26.5*"
+    "1.26.6*"
   ],
   "published_at": "2026-10-22T00:00:00Z",
   "info": {
@@ -20,6 +20,6 @@
   },
   "download": {
     "type": "direct",
-    "url": "https://github.com/GamingPrince76/Levi-Freecam/releases/download/v1.0/Levi-Freecam-v1.0.levipack"
+    "url": "https://github.com/GamingPrince76/Levi-Freecam/releases/download/v2.0/Levi-Freecam-v2.0.levipack"
   }
 }

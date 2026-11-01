@@ -6,7 +6,7 @@
   "minecraft_versions": [
     "1.26.6*"
   ],
-  "published_at": "2026-10-22T00:00:00Z",
+  "published_at": "2026-11-1T00:00:00Z",
   "info": {
     "name": "Levi Freecam",
     "author": "GamingPrince76",
@@ -20,6 +20,6 @@
   },
   "download": {
     "type": "direct",
-    "url": "https://github.com/GamingPrince76/Levi-Freecam/releases/download/v2.0/Levi-Freecam-v2.0.levipack"
+    "url": "https://github.com/GamingPrince76/Levi-Freecam/releases/tag/v2.0/Levi-Freecam-v2.0.levipack"
   }
 }
